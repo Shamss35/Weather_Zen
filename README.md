@@ -30,6 +30,8 @@ Welcome to Weather Zen! This web application provides you with up-to-date weathe
 🔖 **Bookmark Locations:** Click "Bookmark" to save locations for future access.
 
 **Screenshots:**
+<img width="552" alt="Screenshot 2023-08-15 at 4 09 35 PM" src="https://github.com/Shamss35/Weather_Zen/assets/99024751/fe6e690c-688e-42ad-aaa7-4b9cbd963594">
+<img width="529" alt="Screenshot 2023-08-15 at 4 10 42 PM" src="https://github.com/Shamss35/Weather_Zen/assets/99024751/3a0f53ea-e11f-4f92-9cca-a73d8692e26f">
 
 
 **About the Developer:**
