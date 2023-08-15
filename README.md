@@ -3,31 +3,34 @@ Welcome to Weather Zen! This web application provides you with up-to-date weathe
 
 **Features:**
 
-🌐 Real-time Weather Data: Get instant updates for your location with reliable data from trusted weather services.
+🌐 **Real-time Weather Data:** Get instant updates for your location with reliable data from trusted weather services.
 
-📱 Responsive Design: Weather Zen works seamlessly on all devices, so you can access information anytime, anywhere.
+📱 **Responsive Design:** Weather Zen works seamlessly on all devices, so you can access information anytime, anywhere.
 
-🌟 User-Friendly Interface: Our simple interface makes understanding and navigating weather information a breeze.
+🌟 **User-Friendly Interface:** Our simple interface makes understanding and navigating weather information a breeze.
 
-🌡️ Detailed Forecast: Dive into in-depth forecasts, including temperature, humidity, wind speed, and more, for informed decisions.
+🌡️ **Detailed Forecast:** Dive into in-depth forecasts, including temperature, humidity, wind speed, and more, for informed decisions.
 
-🌍 Search Any Location: Whether near or far, Weather Zen provides worldwide weather data.
+🌍 **Search Any Location:** Whether near or far, Weather Zen provides worldwide weather data.
 
-📊 Visual Representations: Clear icons and graphs make it easy to grasp current weather trends.
+📊 **Visual Representations:** Clear icons and graphs make it easy to grasp current weather trends.
 
-📍 Bookmark Your Locations: Save frequently searched places for quick weather updates.
+📍 **Bookmark Your Locations:** Save frequently searched places for quick weather updates.
 
-🔓 Open-Source: Weather Zen is open-source; contribute on GitHub and be part of the development.
+🔓 **Open-Source:** Weather Zen is open-source; contribute on GitHub and be part of the development.
 
 **Getting Started:**
 
-🚀 Accessing the App: Visit https://shamss35.github.io/Weather_Zen/ in your preferred browser.
+🚀 **Accessing the App:** Visit https://shamss35.github.io/Weather_Zen/ in your preferred browser.
 
-🔍 Search for Weather: Use the search bar to find weather for any location. Hit Enter or click to get data.
+🔍 **Search for Weather:** Use the search bar to find weather for any location. Hit Enter or click to get data.
 
-🔍 Explore Weather Details: View current conditions and navigate tabs for detailed forecasts.
+🔍 **Explore Weather Details:** View current conditions and navigate tabs for detailed forecasts.
 
-🔖 Bookmark Locations: Click "Bookmark" to save locations for future access.
+🔖 **Bookmark Locations:** Click "Bookmark" to save locations for future access.
+
+**Screenshots:**
+
 
 **About the Developer:**
 
