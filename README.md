@@ -21,7 +21,7 @@ Welcome to Weather Zen! This web application provides you with up-to-date weathe
 
 **Getting Started:**
 
-🚀 **Accessing the App:** Visit https://shamss35.github.io/Weather_Zen/ in your preferred browser.
+🚀 **Accessing the App:** Visit https://shamyaharia.github.io/Weather_Zen/ in your preferred browser.
 
 🔍 **Search for Weather:** Use the search bar to find weather for any location. Hit Enter or click to get data.
 
